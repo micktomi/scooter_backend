@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtualenv
+venv/
+ENV/
+
+# Αρχεία IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Τοπικά αρχεία ρυθμίσεων
+*.env
+.env
+*.local
+
+# Αρχεία βάσης δεδομένων SQLite
+*.db
+*.sqlite3
+
+# Αρχεία καταγραφής
+*.log
+
+# Αρχεία Docker
+cloud-run-backend.yaml
